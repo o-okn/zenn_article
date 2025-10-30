@@ -1,0 +1,20 @@
+title: "Tour of Rust をやってみた"
+summary: |-
+  ひょんな事からRustを書いてみようとなったので
+  Tour of Rustをチュートリアルとしてやってみて自分が振り返るようにまとめてみました
+topics:
+  - "rust"
+  - "読書メモ"
+published: true
+price: 0
+toc_depth: 2
+chapters:
+  - "42166f"
+  - "6efb06"
+  - "93cce4"
+  - "56bba5"
+  - "c67315"
+  - "abdbda"
+  - "a6a672"
+  - "3f0682"
+  - "4935bc"
