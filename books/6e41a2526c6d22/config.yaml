@@ -6,6 +6,7 @@ topics:
   - "rust"
   - "読書メモ"
 published: true
+allow_override: true
 price: 0
 toc_depth: 2
 chapters:
